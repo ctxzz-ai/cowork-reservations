@@ -17,11 +17,11 @@
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [dayjs](https://day.js.org/)
-- [tweakcn](https://github.com/jnsahaj/tweakcn)
+- tweakcn スタイルを再現したカスタム CSS ユーティリティ
 
 ## 開発手順
 
-> **注意:** このリポジトリはデモ環境向けに作成されており、`npm install` が制限される場合があります。`tweakcn` は npm Registry ではなく GitHub の既定ブランチから取得するため、ネットワークと Git の利用が許可されている環境で実行してください。
+> **注意:** このリポジトリはデモ環境向けに作成されており、`npm install` が制限される場合があります。
 
 1. 依存パッケージをインストール
 

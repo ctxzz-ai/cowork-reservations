@@ -12,7 +12,7 @@
     "dayjs": "^1.11.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tweakcn": "github:jnsahaj/tweakcn#v0.3.3"
+    "tweakcn": "github:jnsahaj/tweakcn"
   },
   "devDependencies": {
     "@types/react": "^18.2.26",
